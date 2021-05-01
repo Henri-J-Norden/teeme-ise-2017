@@ -7,5 +7,5 @@ Our robot won 1st prize for the combined 2-part timed final challenge of navigat
 
 
 # Images
-![](https://scontent-arn2-2.xx.fbcdn.net/v/t31.0-8/23674869_1784177778272988_8593517963487932557_o.jpg?_nc_cat=107&_nc_oc=AQnENNHrm87H7W4SaZkY3c51L8Ofm94vsSQnfDLI5yzNy4cj1MP6JoY_FltbseZ2bV0&_nc_ht=scontent-arn2-2.xx&oh=b88615f79c3c39b3fa0e3e5796ccab32&oe=5E3B3A0F)
+![](https://github.com/Henri-J-Norden/teeme-ise-2017/blob/master/23674869_1784177778272988_8593517963487932557_o.jpg)
 
