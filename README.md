@@ -7,5 +7,6 @@ Our robot won 1st prize for the combined 2-part timed final challenge of navigat
 
 
 # Images
+https://www.facebook.com/TTYRobotiklubi/posts/1784181104939322
 ![](https://github.com/Henri-J-Norden/teeme-ise-2017/blob/master/23674869_1784177778272988_8593517963487932557_o.jpg)
 
